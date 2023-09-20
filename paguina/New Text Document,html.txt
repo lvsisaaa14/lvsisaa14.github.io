@@ -1,0 +1,8 @@
+<html>
+	<head>
+		<title>Buscador de hojas aesthetics</title>
+	</head>
+	<body>
+	Aquí va el contenido
+	</body>
+</html>
